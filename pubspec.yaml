@@ -1,0 +1,65 @@
+name: iot_app_prot1
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_nav_bar: ^5.0.6
+  equatable: ^2.0.5
+  flutter_riverpod: ^2.4.9
+  google_fonts: 5.1.0
+  fl_chart: ^0.66.0
+  intl: 0.18.1
+  percent_indicator: ^4.2.3
+  expansion_tile_card: ^3.0.0
+  firebase_core: ^2.25.4
+  firebase_auth: ^4.17.4
+  cloud_firestore: ^4.15.5
+  flutter_native_splash: ^2.3.10
+  flutter_launcher_icons: ^0.13.1
+  firebase_database: ^10.4.9
+  shared_preferences: ^2.2.2
+  firebase_app_check: ^0.2.1+17
+
+flutter_native_splash:
+  image: assets/img/light_mode_splash_screen.png
+  color: "#F7FAFF"
+  image_dark: assets/img/dark_mode_splash_screen.png
+  color_dark: "#1A1A1A"
+  android: true
+  ios: true
+  android_12:
+    image: assets/img/light_mode_splash_screen.png
+    color: "#F7FAFF"
+    image_dark: assets/img/dark_mode_splash_screen.png
+    color_dark: "#1A1A1A"
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: "AppIcon"
+  image_path: "assets/img/icon.png"
+  adaptive_icon_background: "#F7FAFF"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/img/dark_mode_splash_screen.png
+    - assets/img/light_mode_splash_screen.png
+    - assets/img/icon.png
+

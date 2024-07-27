@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253025065972",
+    "project_id": "audioguard-e1972",
+    "storage_bucket": "audioguard-e1972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253025065972:android:1a26817ad3893d3c3a77a1",
+        "android_client_info": {
+          "package_name": "com.example.iot_app_prot1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUT25sYv1-TFpwLzrm1u9uj7-4H4zKUhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
