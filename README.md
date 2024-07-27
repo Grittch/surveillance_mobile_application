@@ -1,16 +1,32 @@
-# iot_app_prot1
+# Benvenuto!
 
-A new Flutter project.
+Sei sulla repository dell’applicazione MVP di AudioGuard, una parte della tesi triennale “AudioGuard: Sviluppo di un Sistema di Audiosorveglianza mediante Tecniche di Analisi Audio basate sull'Intelligenza Artificiale” in corso di stesura.
 
-## Getting Started
+## Contenuti della Repository
 
-This project is a starting point for a Flutter application.
+In questa repository troverai:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Codice dell’applicazione**
+2. **File APK installabile**
+3. **Documentazione in formato PDF**:
+    - `1 - Application Vision`
+    - `2 - Design Ideas`
+    - `3 - Application Resume`
+    - `Extra - AudioGuard in BREVE`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> **Nota Bene:** L’applicazione presenta dati fittizi e hardcoded. Potrebbe non essere consultabile momentaneamente viste le politiche di FireBase. Basarsi sul codice e il PDF "3 - Application Resume" per avere un'idea delle schermate. Se necessario, contattarmi per avere una copia completamente funzionante.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Documentazione
+
+- **Application Vision**: Descrive la visione e gli obiettivi dell’applicazione.
+- **Design Ideas**: Presenta le idee di design e le scelte architetturali.
+- **Application Resume**: Fornisce un delle caratteristiche dell’applicazione e le varie schermate finali.
+- **AudioGuard in BREVE**: Un documento extra che riassume brevemente il progetto AudioGuard.
+
+## Contatti
+
+Per ulteriori informazioni o domande, contattarmi in privato.
+
+---
+
+Grazie per aver visitato la repository!
